@@ -1,0 +1,6 @@
+scikit-learn==1.2.2
+streamlit
+joblib==1.5.1
+numpy
+streamlit-lottie
+requests
