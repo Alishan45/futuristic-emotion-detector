@@ -28,7 +28,7 @@ This app predicts the emotion of a given text, shows the prediction confidence, 
 ---
 
 ## 🖥 Demo
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heartvision-ai.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://futuristic-emotion-detector.streamlit.app/)
 
 ---
 
